@@ -1,0 +1,36 @@
+html body {
+  font-family: 'Montserrat', sans-serif;
+}
+.slider .btn {
+  margin-top: 2%;
+}
+
+.section-search input {
+  padding: 5px !important;
+  font-size: 18px !important;
+  width: 90%;
+  border: #f4f4f4 3px solid !important;
+}
+
+.section-search h3 {
+  text-align: center;
+}
+
+.autocomplete-content {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
+
+.card-image img {
+  max-height: 200px;
+  object-fit: cover;
+}
+
+.section-follow img {
+  margin: 0.2rem 1rem;
+}
+
+footer p {
+  font-size: 1.2rem;
+}
